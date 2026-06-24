@@ -1,4 +1,4 @@
-{ "enabled": true, "type": "promo",
+{ "enabled": false, "type": "promo",
   "message": "Geração do Flow sendo reconstruída do zero, para ficar ainda melhor. Atualização em breve",
   "until": "2026-06-25",
   "link": "https://github.com/felopes128/microstock-sensei-releases/releases/latest",

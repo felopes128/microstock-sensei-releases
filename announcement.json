@@ -1,3 +1,5 @@
-{ "enabled": true, "type": "promo",
-  "message": "Geração do flow sendo reconstruida do zero, para ficar ainda melhor. atualização em breve",
-  "until": "2026-06-25" }
+{ "enabled": false, "type": "promo",
+  "message": "Geração do Flow sendo reconstruída do zero, para ficar ainda melhor. Atualização em breve",
+  "until": "2026-06-25",
+  "link": "https://github.com/felopes128/microstock-sensei-releases/releases/latest",
+  "link_label": "Baixar a versão mais recente" }

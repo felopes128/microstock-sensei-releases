@@ -1,5 +1,5 @@
-{ "enabled": false, "type": "promo",
-  "message": "Geração do Flow sendo reconstruída do zero, para ficar ainda melhor. Atualização em breve",
+{ "enabled": true, "type": "promo",
+  "message": "Dúvidas de como usar o APP?",
   "until": "2026-06-25",
-  "link": "https://github.com/felopes128/microstock-sensei-releases/releases/latest",
-  "link_label": "Baixar a versão mais recente" }
+  "link": "https://microstockkeyworder.com/app/help",
+  "link_label": "Veja o Tutorial Completo" }

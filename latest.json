@@ -1,7 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "type": "light",
-  "app_zip": "app-1.4.1.zip",
-  "installer": "MicrostockSensei-Setup-1.4.1.exe",
-  "notes": "Correção importante: o aviso de atualização voltou a funcionar (o app estava sempre dizendo que você já estava na última versão). Modo headless mais rápido e estável: geração pela API, sem abrir janelas, com cache de projeto e proteção anti-falhas por conta. Gerador de prompts: botão \"Misturar todos os estilos\", a IA passa a expandir cada assunto em muitas variações, e a última configuração fica salva. Esteira: botão Ativar/Desativar por tarefa. Assuntos dos guias mais limpos."
+  "notes": "Atualizações voltaram a funcionar ..."
 }

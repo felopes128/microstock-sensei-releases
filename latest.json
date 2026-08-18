@@ -1,5 +1,5 @@
 {
   "version": "1.4.3",
-  "type": "light",
-  "notes": "nova aba de revisão"
+  "type": "full",
+  "notes": "Nova aba REVISÃO: aprove/reprove suas imagens uma a uma pelo teclado (setas, Ctrl+Z, atalhos configuráveis), com Aprovar Comercial e Editorial (editoriais vão pra subpasta 'editorial'). Lupa com zoom, abrir direto no Photoshop/Illustrator/Premiere, reprovadas pra Lixeira/pasta/excluir, organização por data e formato, auto-reprovar imagens < 4 MP, infos da imagem no preview. Suporta fotos, vetores (EPS/SVG) e vídeos (com player). E dá pra REVISAR PELO CELULAR no mesmo Wi-Fi (QR code) — aprovar no celular aplica na hora no PC. Correção do ffmpeg embutido (frame de vídeo)."
 }

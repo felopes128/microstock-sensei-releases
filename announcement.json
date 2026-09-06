@@ -1,5 +1,5 @@
 { "enabled": true, "type": "promo",
-  "message": "Geração com o flow corrigida!. ",
-  "until": "2026-09-08",
+  "message": "Flow só funcionando na versão mais recente! (Domingo). ",
+  "until": "2026-09-10",
   "link": "https://microstockkeyworder.com/app",
-  "link_label": "Clique aqui para baixar a 1.4.5" }
+  "link_label": "Clique aqui para baixar a 1.4.6" }

@@ -1,4 +1,4 @@
-{ "enabled": true, "type": "promo",
+{ "enabled": false, "type": "promo",
   "message": "Promo de Final de Semana, 10% extras em qualquer pacote ",
   "until": "2026-09-22",
   "link": "https://microstockkeyworder.com/dashboard/credits",

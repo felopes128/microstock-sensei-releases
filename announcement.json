@@ -1,5 +1,5 @@
-{ "enabled": false, "type": "promo",
-  "message": "Promo de Final de Semana, 10% extras em qualquer pacote ",
-  "until": "2026-09-22",
+{ "enabled": true, "type": "promo",
+  "message": "Saiu a 2.0.6: novo jeito de gerar no Flow, por cliques, que passa melhor pelo anti-bot. E tem promo: 10% de créditos extras em qualquer pacote!",
+  "until": "2026-09-28",
   "link": "https://microstockkeyworder.com/dashboard/credits",
-  "link_label": "Clique aqui para recarregar" }
+  "link_label": "Recarregar com 10% extra" }

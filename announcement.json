@@ -1,4 +1,4 @@
-{ "enabled": true, "type": "promo",
+{ "enabled": false, "type": "promo",
   "message": "Saiu a 2.0.6: novo jeito de gerar no Flow, por cliques, que passa melhor pelo anti-bot. E tem promo: 10% de créditos extras em qualquer pacote!",
   "until": "2026-09-28",
   "link": "https://microstockkeyworder.com/dashboard/credits",

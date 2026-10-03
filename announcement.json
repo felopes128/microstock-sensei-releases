@@ -1,5 +1,5 @@
-{ "enabled": false, "type": "promo",
-  "message": "Saiu a 2.0.6: novo jeito de gerar no Flow, por cliques, que passa melhor pelo anti-bot. E tem promo: 10% de créditos extras em qualquer pacote!",
-  "until": "2026-09-28",
-  "link": "https://microstockkeyworder.com/dashboard/credits",
-  "link_label": "Recarregar com 10% extra" }
+{ "enabled": true, "type": "promo",
+  "message": "Saiu a 2.0.7: o app passa a se atualizar sozinho ao abrir, Revisão com IA pela metade do preço e gerar por cliques mais estável. E neste fim de semana tem oferta: 10% extra na recarga de créditos!",
+  "until": "2026-10-04",
+  "link": "https://github.com/felopes128/microstock-sensei-releases/releases/download/v2.0.7/MicrostockSensei-Setup-2.0.7.exe",
+  "link_label": "Baixar a 2.0.7" }
